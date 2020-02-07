@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    display: inline-block;
+}
+
+button {
+    height: 25px;
+}
+
+p {
+    padding: 8px;
+}
+
+.light {
+    background-color: #f1f1f1;
+    color: darkslategray;
+}
+
+.light h3 {
+    color: lightseagreen;
+    padding: 5px;
+}
+
+.dark {
+    background-color: darkslategray;
+    color: #f1f1f1;
+}
+
+.dark h3 {
+    color: goldenrod;
+    padding: 5px;
+}
